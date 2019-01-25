@@ -9,10 +9,10 @@
 <p>Currency Code: <b>HWI</b></p>
 
 <p><b>Website</b><br>
-<a href="http://hawaii.io" target="_blank">http://hawaii.io</a></p>
+<a href="http://hawaiicoin.tk" target="_blank">http://hawaiicoin.tk</a></p>
 
 <p><b>Twitter</b><br>
-<a href="https://twitter.com/Hawaiicoin1" target="_blank">@hawaiicoin1</a></p>
+<a href="https://twitter.com/CoinHawaii" target="_blank">@hawaiicoin1</a></p>
 
 <p><b>Contact</b><br>
 <a href="mailto:contact@stronghands.info" target="_blank">contact@stronghands.info/a></p>
@@ -31,8 +31,6 @@ Confirmations Sent: <b>6 Blocks</b></p>
 <p><b>Official Block Explorer</b><br>
 <a href="https://www.coinexplorer.net/HWI" target="_blank">https://www.coinexplorer.net/HWI</a></p>
 
-<p><b>Coin-miners.info</b><br>
-<a href="https://hashnice.pw/" target="_blank">https://hashnice.pw/</a></p>
 
 <h2>ADDNODES</h2>
 addnode=103.53.231.45:28932
@@ -47,3 +45,4 @@ addnode=69.117.27.119:28932
 addnode=185.39.143.227:28932
 addnode=174.31.103.102:28932
 addnode=123.2.176.218:28932
+addnode=85.25.242.141:28932
