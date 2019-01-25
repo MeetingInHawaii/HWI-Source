@@ -2,8 +2,6 @@
 
 <p>Hawaii is a Quark based cryptocurrency with PoW, PoS, and long term support (LTS). Hawaiicoin uses the rock solid 9-hash algorithm Quark for Proof of Work and the Novacoin for Proof of Stake.</p>
 
-<p>Platinum is a chemical element with symbol Pt and atomic number 78. It is a dense, malleable, ductile, highly unreactive, precious, gray-white transition metal.</p>
-
 <p>Block time is 2 minutes. Difficulty Adjustment is 5 blocks.</p>
 
 <p>Currency Code: <b>HWI</b></p>
